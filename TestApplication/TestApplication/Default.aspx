@@ -13,7 +13,6 @@
             <h3>First Change</h3>
             <h3>Again small Change</h3>
             <h3>Some Bug Fixed.</h3>
-            <h3>This change should be revert, It is committed by mistake</h3>
         </div>
     </form>
 </body>
