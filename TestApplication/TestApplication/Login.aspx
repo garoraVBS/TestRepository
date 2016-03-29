@@ -11,6 +11,7 @@
         <div>
             <h1>Release 94 completed!</h1>
             <h1>Hot fix done for 94</h1>
+            <h1>2nd Hot fix done for 94</h1>
         </div>
     </form>
 </body>
